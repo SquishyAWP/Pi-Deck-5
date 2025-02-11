@@ -15,7 +15,6 @@ To Do List
 
 Currently, there is no proper mounting in the shell for the shoulder PCBs as I used hot glue  
 Currently, there are no proper contact pad PCBs or designs as I made my boards by hand  
-Currently, start and select are flipped in the design which I will fix right now  
 Currently, the joysticks are shimmed into the right place and hot glued down  
 
 If this project is to progress, it will eventually need to use a CM5 because desoldering the Pi 5 was not a beginner-friendly chore. The interface board should only include power, HDMI, one USB 3.0, and an internal USB 2.0. In the future, it would be nice if power delivery, charging, and audio out could be moved to the interface board. 
