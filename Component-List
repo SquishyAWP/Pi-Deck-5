@@ -1,0 +1,22 @@
+Components List
+
+1 Pi 5 any type with Ethernet jack, USB headers, GPIO pins, POE pins, and Power button desoldered/ removed
+1 Teensy 3.2 or similar USB capable microcontroller
+2 "Arduino" joystick boards
+12 Silcone Contact pads, (2 SNES buttons, 2 SNES shoulders, 4 PlayStation buttons, 1 full PlayStation DPAD)
+2 12*12mm tactile buttons
+
+4 18650 cells (Unprotected)
+1 HW-391 BMS (HX-2S-D20 suitable sub)
+1 Mini560/ Mini560 Pro 5V Buck converter
+1 LX-LISC-V2 15w Type C 2s fast charging board
+
+1 ~1.2mm Aluminum plate to be cut into heat spreader
+1 5v WinSinn 30*30*7mm blower fan
+1 Thermal pad set .5-2mm thicknesses
+
+1 5 Inch IPS capacitive touchscreen HDMI display (Touchscreen needs to be removed, extra padding between PCB and LCD needs removed, USB ports need to be desoldered, 3.5mm jack desoldered, and PCB needs to be shaved for ribbon cable) seller iPistBit on Amazon
+
+2 Oval shaped 2w speakers 
+1 5w (or weaker) stereo amplifier
+2 headphone jack (style pictured)
