@@ -1,5 +1,7 @@
 # Pi-Deck-5
-![ISOUP21125](https://github.com/user-attachments/assets/2885826f-c453-49fd-b91b-b10ef34b15ee)
+![ISOUP21125](https://github.com/user-attachments/assets/2885826f-c453-49fd-b91b-b10ef34b15ee)![TT21125](https://github.com/user-attachments/assets/2f22b1f5-317a-4b29-9777-f92556b6daa0)
+
+
 A Pi 5-based handheld purpose-built for retro videogame emulation
 
 Overview
